@@ -1,0 +1,27 @@
+{
+  "name": "nodejsandmysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevenguy/nodejsandmysql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevenguy/nodejsandmysql/issues"
+  },
+  "homepage": "https://github.com/stevenguy/nodejsandmysql#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0",
+    "mysql2": "^1.6.2",
+    "path": "^0.12.7"
+  }
+}
